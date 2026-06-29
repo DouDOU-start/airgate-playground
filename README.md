@@ -1,4 +1,18 @@
-# AirGate Playground（AI Chat）
+<div align="center">
+  <h1>AirGate Playground</h1>
+
+  <p><strong>平台内置 Web 聊天界面插件（AI Chat）</strong></p>
+
+  <p>
+    <a href="https://github.com/DouDOU-start/airgate-playground/releases"><img src="https://img.shields.io/github/v/release/DouDOU-start/airgate-playground?style=flat-square" alt="release" /></a>
+    <a href="https://github.com/DouDOU-start/airgate-playground/blob/master/LICENSE"><img src="https://img.shields.io/github/license/DouDOU-start/airgate-playground?style=flat-square" alt="license" /></a>
+    <a href="https://github.com/DouDOU-start/airgate-playground/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/DouDOU-start/airgate-playground/ci.yml?branch=master&style=flat-square&label=CI" alt="ci" /></a>
+    <img src="https://img.shields.io/badge/Go-1.25-00ADD8?style=flat-square&logo=go" alt="go" />
+    <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react" alt="react" />
+  </p>
+</div>
+
+---
 
 AirGate 扩展插件：内置 Web 聊天界面。安装后用户可在 AirGate 平台内直接与已接入的 AI 模型对话，无需第三方客户端。
 
